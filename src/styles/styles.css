@@ -1,0 +1,11 @@
+#card:hover {
+  background-color: dimgray;
+  color: #62d9fb;
+  cursor: pointer;
+}
+#addSell:hover {
+  display: block;
+  cursor: pointer;
+  background: blue;
+  color: #dedede;
+}
